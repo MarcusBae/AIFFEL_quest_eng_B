@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 박병인
-- 리뷰어 : 김병
+- 리뷰어 : 김병규 
 
 
 # PRT(Peer Review Template)
@@ -23,6 +23,10 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+     
+    - 코드 이해를 위해 주석이 잘 작성되어 있습니다.
+      <img width="495" height="448" alt="result3" src="https://github.com/user-attachments/assets/7fdd2af9-d941-47f9-a7cf-f7a7e81acc2e" />
+
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
