@@ -8,6 +8,7 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         - 1번 퀴즈 : 개발완료
+          ![이미지첨부](result1.png)
 <img width="322" height="293" alt="result1" src="https://github.com/user-attachments/assets/1d245a16-fb32-42f5-9931-29b33e72276c" />
         
         
